@@ -1,0 +1,49 @@
+/* Bordered form */
+form {
+    border: 3px solid #f1f1f100;
+  }
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(204, 204, 204);
+    box-sizing: border-box;
+  }
+  .navbar{
+    background-color: red;
+    border-radius: 4px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    padding: 3px 3px;
+    margin: 3px 3px;
+}
+.navbar li a{
+    text-decoration: none;
+    color: white;
+    padding: 3px 3px;
+}
+.navbar li a:hover{
+color: blue;
+}
+  
+  .bar{
+    background-color: WHI(255, 255, 255);
+    width: 800px;
+    height: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    padding-top: 50pw;
+    text-align: center;
+  }
+  #Loginpage{
+      font-size:1cm;
+    }
